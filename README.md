@@ -1,6 +1,10 @@
 # react-tailwind
 Create React App boilerplate with Tailwind CSS and Storybook
 
+# GitHub Pages demo
+
+https://mrtuanphong.github.io/react-tailwind/
+
 ## Create React App
 
 https://create-react-app.dev/
