@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tailwind/static/css/main.4a9ff4a6.chunk.css",
+    "main.js": "/react-tailwind/static/js/main.5d92ac2e.chunk.js",
+    "main.js.map": "/react-tailwind/static/js/main.5d92ac2e.chunk.js.map",
+    "runtime-main.js": "/react-tailwind/static/js/runtime-main.cdbbba73.js",
+    "runtime-main.js.map": "/react-tailwind/static/js/runtime-main.cdbbba73.js.map",
+    "static/js/2.5e584585.chunk.js": "/react-tailwind/static/js/2.5e584585.chunk.js",
+    "static/js/2.5e584585.chunk.js.map": "/react-tailwind/static/js/2.5e584585.chunk.js.map",
+    "index.html": "/react-tailwind/index.html",
+    "precache-manifest.4a7a526c29ccc27da9622c2dc45f2bc4.js": "/react-tailwind/precache-manifest.4a7a526c29ccc27da9622c2dc45f2bc4.js",
+    "service-worker.js": "/react-tailwind/service-worker.js",
+    "static/css/main.4a9ff4a6.chunk.css.map": "/react-tailwind/static/css/main.4a9ff4a6.chunk.css.map",
+    "static/media/logo.svg": "/react-tailwind/static/media/logo.15dcea77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdbbba73.js",
+    "static/js/2.5e584585.chunk.js",
+    "static/css/main.4a9ff4a6.chunk.css",
+    "static/js/main.5d92ac2e.chunk.js"
+  ]
+}
